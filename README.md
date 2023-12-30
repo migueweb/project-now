@@ -19,4 +19,3 @@ Basic landing page with HTML and Sass
 ## Author
 Miguel Amador
 - Github: [@migueweb](https://github.com/migueweb)
-- Linkedin: [@miguel-amador-dev](https://linkedin.com/in/miguel-amador-dev)
